@@ -1,0 +1,10 @@
+var a, b, sum;
+var num1 = 10, num2 = 20;
+var price = 10.50;
+var cost;
+var totalAmount = 0;
+var productCode = "Find what is suitable to your location";
+var tested = true;
+var anyvalue = null;
+alert("Our Campuses");
+alert (productCode);
